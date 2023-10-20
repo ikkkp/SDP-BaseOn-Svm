@@ -1,0 +1,45 @@
+@relation KC3
+
+@attribute LOC_BLANK numeric
+@attribute BRANCH_COUNT numeric
+@attribute CALL_PAIRS numeric
+@attribute LOC_CODE_AND_COMMENT numeric
+@attribute LOC_COMMENTS numeric
+@attribute CONDITION_COUNT numeric
+@attribute CYCLOMATIC_COMPLEXITY numeric
+@attribute CYCLOMATIC_DENSITY numeric
+@attribute DECISION_COUNT numeric
+@attribute DECISION_DENSITY numeric
+@attribute DESIGN_COMPLEXITY numeric
+@attribute DESIGN_DENSITY numeric
+@attribute EDGE_COUNT numeric
+@attribute ESSENTIAL_COMPLEXITY numeric
+@attribute ESSENTIAL_DENSITY numeric
+@attribute LOC_EXECUTABLE numeric
+@attribute PARAMETER_COUNT numeric
+@attribute GLOBAL_DATA_COMPLEXITY numeric
+@attribute GLOBAL_DATA_DENSITY numeric
+@attribute HALSTEAD_CONTENT numeric
+@attribute HALSTEAD_DIFFICULTY numeric
+@attribute HALSTEAD_EFFORT numeric
+@attribute HALSTEAD_ERROR_EST numeric
+@attribute HALSTEAD_LENGTH numeric
+@attribute HALSTEAD_LEVEL numeric
+@attribute HALSTEAD_PROG_TIME numeric
+@attribute HALSTEAD_VOLUME numeric
+@attribute MAINTENANCE_SEVERITY numeric
+@attribute MODIFIED_CONDITION_COUNT numeric
+@attribute MULTIPLE_CONDITION_COUNT numeric
+@attribute NODE_COUNT numeric
+@attribute NORMALIZED_CYLOMATIC_COMPLEXITY numeric
+@attribute NUM_OPERANDS numeric
+@attribute NUM_OPERATORS numeric
+@attribute NUM_UNIQUE_OPERANDS numeric
+@attribute NUM_UNIQUE_OPERATORS numeric
+@attribute NUMBER_OF_LINES numeric
+@attribute PERCENT_COMMENTS numeric
+@attribute LOC_TOTAL numeric
+
+
+@data
+2.0,6.0,15.0,1.0,10.0,8.0,3.0,0,4.0,2.0,2.0,0,27.0,1.0,0.0,26.0,3.0,1.0,0,35,11,4899,0,54.0,0,272,417,0,1.0,4.0,27.0,0,39.0,15.0,133.0,80.0,38.0,0,27.0

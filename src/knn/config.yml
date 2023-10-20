@@ -1,0 +1,4 @@
+data_path: ./data/Target/
+train_percent: 1
+verbose: False
+skip_validation: True
